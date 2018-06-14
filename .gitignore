@@ -4,3 +4,4 @@ node_modules/
 logs/
 # Credentials
 src/credentials.json
+auth.ini
